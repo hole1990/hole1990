@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Vishal Hole 👋
 
-<!--
-**hole1990/hole1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior QA Automation Engineer
 
-Here are some ideas to get you started:
+QA Automation Engineer with 5.5+ years of experience in Automation Testing, API Testing, Framework Development, and Quality Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on modern test automation, Playwright, AI-assisted testing, and GenAI for QA workflows.
+
+### Skills
+
+* Selenium WebDriver
+* Java
+* TestNG
+* REST Assured
+* API Testing
+* Jenkins
+* Maven
+* SQL
+* Git & GitHub
+* Playwright
+* BrowserStack
+* Agile Scrum
+
+### Currently Learning
+
+* Playwright Automation
+* AI Agents for QA
+* GitHub Actions
+* AI-Assisted Test Generation
+* Modern Test Automation Frameworks
+
+### Certifications
+
+* Professional Scrum Master (PSM-I)
+* GenAI & AI Agents for QA Automation
+* Certified Manual & Automation Tester
+
+### Professional Experience
+
+**Springer Nature Technology & Publishing Services Pvt. Ltd.**
+QA Automation Engineer | Jun 2018 – Jun 2024
+
+### Open To Opportunities
+
+* QA Automation Engineer
+* Senior QA Automation Engineer
+* SDET
+* Automation Test Engineer
+
+📍 Pune, Maharashtra, India
+
+### Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/vishal-hole-109993135
+* Email: [holevishal99@gmail.com](mailto:holevishal99@gmail.com)
