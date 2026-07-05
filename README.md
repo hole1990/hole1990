@@ -1,55 +1,31 @@
-# Hi, I'm Vishal Hole 👋
+Hi, I'm Vishal Hole 👋
+Senior Quality Engineer | Software Quality Assurance | Shopify Plus | Agile Scrum
 
-## Senior QA Automation Engineer
+I am a Quality Assurance professional with 11+ years of experience across Publishing Technology, XML Content Engineering, Enterprise Software Testing, Data Migration, and Shopify Plus Digital Commerce Platforms.
 
-QA Automation Engineer with 5.5+ years of experience in Automation Testing, API Testing, Framework Development, and Quality Engineering.
+I have worked on global enterprise applications supporting research publishing, digital education, subscription commerce, and e-commerce solutions across 11+ international markets.
 
-Currently focused on modern test automation, Playwright, AI-assisted testing, and GenAI for QA workflows.
+Core Skills
+Manual Testing
+Functional Testing
+Regression Testing
+Integration Testing
+UAT
+Shopify Plus
+Selenium WebDriver
+Core Java
+REST API Testing
+SQL
+BrowserStack
+JIRA
+Confluence
+Agile Scrum
+Currently Learning
+Playwright with JavaScript
+REST Assured
+AI-Assisted Testing
+Modern Quality Engineering
 
-### Skills
-
-* Selenium WebDriver
-* Java
-* TestNG
-* REST Assured
-* API Testing
-* Jenkins
-* Maven
-* SQL
-* Git & GitHub
-* Playwright
-* BrowserStack
-* Agile Scrum
-
-### Currently Learning
-
-* Playwright Automation
-* AI Agents for QA
-* GitHub Actions
-* AI-Assisted Test Generation
-* Modern Test Automation Frameworks
-
-### Certifications
-
-* Professional Scrum Master (PSM-I)
-* GenAI & AI Agents for QA Automation
-* Certified Manual & Automation Tester
-
-### Professional Experience
-
-**Springer Nature Technology & Publishing Services Pvt. Ltd.**
-QA Automation Engineer | Jun 2018 – Jun 2024
-
-### Open To Opportunities
-
-* QA Automation Engineer
-* Senior QA Automation Engineer
-* SDET
-* Automation Test Engineer
-
-📍 Pune, Maharashtra, India
-
-### Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/vishal-hole-109993135
-* Email: [holevishal99@gmail.com](mailto:holevishal99@gmail.com)
+Connect with me
+LinkedIn: https://www.linkedin.com/in/vishal-hole-109993135
+Email: holevishal99@gmail.com
