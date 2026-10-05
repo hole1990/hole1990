@@ -148,8 +148,6 @@ Key areas:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Vishal Hole](https://www.linkedin.com/in/vishal-hole-109993135/)
-- GitHub: [hole1990](https://github.com/hole1990)
 
 - LinkedIn: [Vishal Hole](https://www.linkedin.com/in/vishal-hole-109993135/)
 - GitHub: [hole1990](https://github.com/hole1990)
